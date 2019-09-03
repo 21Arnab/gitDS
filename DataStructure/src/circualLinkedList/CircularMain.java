@@ -14,6 +14,7 @@ public class CircularMain {
 		list.insertStart(9);
 		list.insertAtEnd(5);
 		list.insertAtposition(7, -1);
+		list.deleteAt(7);
 		
 		list.show();
 	}
